@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi there, I'm Lunn! 👋
 
-<!--
-**lunnong/lunnong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[About me](#about-me) · [My toolbox](#my-toolbox) · [Currently learning and working on](#currently-learning-and-working-on)
 
-Here are some ideas to get you started:
+## About me 👾
+I'm an aspiring software developer and hobbyist game modder/designer/developer. I also make guides for my favorite games.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Games/Systems:
+- Maplestory v62(Cosmic)/v83 Modding
+- FoundryVTT System Development
+
+## My toolbox 🧰
+
+| Technology | What I use it for | Confidence |
+| :--- | :--- | :---: |
+| Java | Console applications | Always Learning 💡 |
+| Git | Tracking changes | Practicing 📚 |
+| Markdown | Making this profile | Improving! 🧠 |
+| HTML | Making my own website | Practicing 📚 |
+| FoundryVTT API | Making my own VTT System | Practicing 📚 |
+| SQL (Basic) | Maplestory Modding | Practicing 📚 |
+| Google Docs & Sheets | Creating and publishing game guides | Always Learning 💡 |
+
+## Currently learning and working on
+- [x] Create my GitHub profile README
+- [ ] Java Fundamentals
+- [ ] Maplestory Classic database, tools, and guides website
+- [ ] Personal TTRPG ruleset with FoundryVTT system
+- [ ] SQL Fundamentals
+- [ ] Python Fundamentals
